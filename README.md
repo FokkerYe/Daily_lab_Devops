@@ -33,4 +33,4 @@
 ## VMware Lab Learning
 - [YouTube - VMware Lab Learning](https://youtu.be/e4H6-nReRiQ?si=oKD9xG4VSG_VWSBA)
 
-Make sure to replace these links with your actual content or descriptions as needed. You can save this content to a file with a ".md" extension, and it will render as a Markdown document with links when viewed in a Markdown viewer or Markdown-supported platform.
+
